@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
+<h1 align="center">Hi 👋, I'm Navdeep</h1>
 <h3 align="center">A passionate frontend developer from India with past experience in penetration testing.</h3>
 
 <p align="left"> <a href="https://twitter.com/navkhubber" target="blank"><img src="https://img.shields.io/twitter/follow/navkhubber?logo=twitter&style=for-the-badge" alt="navkhubber" /></a> </p>
