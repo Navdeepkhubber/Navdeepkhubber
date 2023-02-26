@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Navdeep</h1>
 <h3 align="center">A passionate frontend developer from India with past experience in penetration testing.</h3>
 
-<p align="left"> <a href="https://twitter.com/navkhubber" target="blank"><img src="https://img.shields.io/twitter/follow/navkhubber?logo=twitter&style=for-the-badge" alt="navkhubber" /></a> 
+<p> 
+   <a href="https://twitter.com/Navkhubber">
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/navdeepsinghkhubber/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
