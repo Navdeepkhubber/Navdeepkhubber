@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/navkhubber" target="blank"><img src="https://img.shields.io/twitter/follow/navkhubber?logo=twitter&style=for-the-badge" alt="navkhubber" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend development and ReactNative**
+- 🌱 I’m currently learning **Frontend development and React Native**
 
 - 💬 Ask me about **web application security**
 
@@ -24,6 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeepkhubber&show_icons=true&locale=en" alt="navdeepkhubber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepkhubber&" alt="navdeepkhubber" /></p>
+
+[![Navdeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Navdeepkhubber&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **Navdeepkhubber/Navdeepkhubber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
