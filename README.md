@@ -32,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepkhubber&" alt="navdeepkhubber" /></p>
 
-[![Navdeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Navdeepkhubber&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
