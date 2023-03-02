@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navdeep</h1>
 <h3 align="center">A passionate frontend developer from India with past experience in penetration testing.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishxyz&label=Profile%20views&color=0e75b6&style=flat" alt="nitishxyz" /> </p>
+
 <p> 
    <a href="https://twitter.com/Navkhubber">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
