@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Navdeep</h1>
-<h3 align="center">A passionate frontend developer from India with past experience in penetration testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeepkhubber&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepkhubber" /> </p>
 
@@ -12,9 +11,7 @@
 </a>
 </p>
 
-- 🌱 I’m currently learning **Frontend development and React Native**
-
-- 💬 Ask me about **web application security**
+- 💬 Ask me about **Web application security**
 
 - 📫 How to reach me **navdeepkhubber16@gmail.com**
 
